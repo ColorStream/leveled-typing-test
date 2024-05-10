@@ -1,0 +1,3 @@
+C:/Users/amand/Documents/Classes/introToC/Assignments/finalproject/TypingTest/cmake-build-debug/CMakeFiles/TypingTest.dir
+C:/Users/amand/Documents/Classes/introToC/Assignments/finalproject/TypingTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amand/Documents/Classes/introToC/Assignments/finalproject/TypingTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
